@@ -1,0 +1,16 @@
+/* for footer style */
+
+header {
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border: bottom 1px #CCCCCC;
+}
+
+.logo {
+    background: url('../images/logo.png') 20px 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 175px;
+    height: 100%;
+}
