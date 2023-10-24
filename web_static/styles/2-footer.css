@@ -1,11 +1,12 @@
 /* for header style */
 
 footer {
-    position: fixed;
-    bottom: 0;
     background-color: #00FF00;
     height: 60px;
+    bottom: 0;
+    position: absolute;
     width: 100%;
-    text-align: center;
-    line-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center
 }
